@@ -8,8 +8,26 @@ namespace ConsoleApp1
 {
     class Menu
     {
-        private string _categories;
-        private string _updatedLast;
+        public List<MenuItems> listOfMenuItems = new List<MenuItems>();
+        public string MenuName { get; set; }
+        public string LastUpdated { get; set; }
+
+        public Menu(string name)
+        {
+            this.MenuName = name;
+        }
+        public void AddMenuItem(MenuItems name)
+        {
+            this.listOfMenuItems.Add(name);
+        }
+
+        public void PrintMenuItems()
+        {
+            foreach (MenuItems name in this.listOfMenuItems)
+            {
+                name.PrintDetails();
+            }
+        }
 
         public Menu()
         {
