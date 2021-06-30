@@ -30,11 +30,11 @@ namespace ConsoleApp1
 
            if (this.ItemAge.Equals(this.InputDate))
            {
-                Console.WriteLine($"{this._itemName} is a new item!");
+                Console.WriteLine($"{this._itemName} is a new item!\n");
            }
            else
             {
-                Console.WriteLine($"{this._itemName} is an old item.");
+                Console.WriteLine($"{this._itemName} is an old item.\n");
             }
 
         }
@@ -46,6 +46,10 @@ namespace ConsoleApp1
             this._price = price;
             this._calories = cal;
             this.InputDate = time;
+        }
+        public MenuItems()
+        {
+
         }
 
 

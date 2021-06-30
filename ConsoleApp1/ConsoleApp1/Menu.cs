@@ -29,6 +29,12 @@ namespace ConsoleApp1
             }
         }
 
+        public void RemoveItem(MenuItems name)
+        {
+            this.listOfMenuItems.Remove(name);
+        }
+
+
         public Menu()
         {
         }
