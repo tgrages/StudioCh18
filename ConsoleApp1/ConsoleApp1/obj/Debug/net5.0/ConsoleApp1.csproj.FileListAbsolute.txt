@@ -14,3 +14,19 @@ C:\Users\eMedi\OneDrive\Desktop\LaunchCode\Chapter 18\Studio\ConsoleApp1\Console
 C:\Users\eMedi\OneDrive\Desktop\LaunchCode\Chapter 18\Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
 C:\Users\eMedi\OneDrive\Desktop\LaunchCode\Chapter 18\Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
 C:\Users\eMedi\OneDrive\Desktop\LaunchCode\Chapter 18\Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\tgrag\documents\CSharp-practice\ch-18\ch-18-test-dir\StudioCh18\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

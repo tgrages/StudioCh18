@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\eMedi\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\eMedi\\.nuget\\packages"
+      "C:\\Users\\tgrag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tgrag\\.nuget\\packages"
     ]
   }
 }
